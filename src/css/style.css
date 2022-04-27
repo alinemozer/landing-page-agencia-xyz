@@ -85,7 +85,7 @@ body {
     background-color: #ffffff;
     display: grid;
     grid-template-columns: 1fr 1fr;
-    max-width: var(max-widht-size);
+    max-width: var(max-width-size);
     margin: 0 auto;
 }
 
