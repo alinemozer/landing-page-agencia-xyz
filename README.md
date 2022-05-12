@@ -1,5 +1,5 @@
 # landing-page-agencia-xyz
-Repositório com Landing Page de uma agência fictícia, para treinamento de Grid.
+Repositório com Landing Page de uma agência fictícia, para treinamento das propriedades Grid do CSS.
 
 📝 Projeto feito em aula do curso DevQuest.
 
